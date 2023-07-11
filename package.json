@@ -5,7 +5,7 @@
   "private": true,
   "dependencies": {
     "firebase": "^7.14.0",
-    "node-sass": "^4.13.1",
+    "node-sass": "^9.0.0",
     "react": "^16.8.6",
     "react-dom": "^16.8.6",
     "react-redux": "7.0.3",
@@ -17,7 +17,7 @@
     "reselect": "4.0.0"
   },
   "devDependencies": {
-    "react-scripts": "^3.4.1"
+    "react-scripts": "^5.0.1"
   },
   "resolutions": {
     "babel-jest": "24.7.1"
